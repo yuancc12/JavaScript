@@ -9,7 +9,7 @@
 + [課堂PPT](https://github.com/yuancc12/web/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 
 # 簡介
-**授課教師:吳教師**
+**授課教師:吳姈蓉教授**
 
 **上課時間：星期四 17.30-20.25**
 
