@@ -1,7 +1,7 @@
 # JavaScript
 # 111-2網際網路程式設計
 # 目錄
-+ [簡介](https://github.com/yuancc12/web/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
++ [簡介](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
 + [練習專區](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E7%B7%B4%E7%BF%92%E5%B0%88%E5%8D%80)
 + [作業專區](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
