@@ -9,11 +9,11 @@
 + [課堂PPT](https://github.com/yuancc12/web/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 
 # 簡介
-**授課教師:蔡芸琤教師**
+**授課教師:吳教師**
 
-**上課時間：星期二 9.10-12.10**
+**上課時間：星期四 17.30-20.25**
 
-**上課地點：TA509**
+**上課地點：TA509、線上**
 ***
 # 自我介紹
 **姓名**：[孫源智](https://yuancc12.github.io/web/mypages/)\
