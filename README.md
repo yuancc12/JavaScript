@@ -25,6 +25,8 @@
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
 ***
 # 練習專區
-
++ [笑臉與迴圈練習]
 # 課堂PPT
 + [第一週](https://drive.google.com/file/d/1AcQb6B5haIx9KFqYj95gn1oaYbcbcIop/view)
++ [第二週](https://drive.google.com/file/d/1SpT2jlj6x0iEFZPaeY2S0OD9iEF34ON6/view)
++ [第三週](https://drive.google.com/file/d/1VE9A_zQmDiM29numNkj7Z_24O_7lYlc5/view)
