@@ -36,3 +36,5 @@
 + [第四週](https://drive.google.com/file/d/1Nc5jfRxi-e1DWS1zIDjgc6kQgevKOufk/view)
 + [第五週](https://drive.google.com/file/d/1eM8UrlntVWu5Ne8DKvaNCRX8noy8C9Fg/view)
 + [第六週](https://drive.google.com/drive/folders/1ofyqEJJ-7r7qKxVl-gsWckpb4z5vVyZ2)
+#專題演講
++ [用ChatGPT來打造大腦的聊天機器人](https://docs.google.com/presentation/d/1RPQ2s77Z4AcE3mKg6_cGm3IuaitjpeXJLJkuOqROJDw/edit#slide=id.g1cac831260d_0_17)
