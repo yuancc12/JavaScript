@@ -35,5 +35,9 @@
 + [第四週](https://drive.google.com/file/d/1Nc5jfRxi-e1DWS1zIDjgc6kQgevKOufk/view)
 + [第五週](https://drive.google.com/file/d/1eM8UrlntVWu5Ne8DKvaNCRX8noy8C9Fg/view)
 + [第六週](https://drive.google.com/drive/folders/1ofyqEJJ-7r7qKxVl-gsWckpb4z5vVyZ2)
++ [第九週-1](https://docs.google.com/presentation/d/1fPw0uZqjnYeh7YIxwmUZBC4n64n2IJ2R/edit?usp=share_link&ouid=104859686814942849803&rtpof=true&sd=true)
++ [第九週-2](https://docs.google.com/presentation/d/13nkRNCL-lSWjZUqaV3ey-rAma9drDyAw/edit?usp=share_link&ouid=104859686814942849803&rtpof=true&sd=true)
++ [第十週-1](https://docs.google.com/presentation/d/12LcxOzlWZnnFlxVpfcYdo8uwJpjkDHZt/edit?usp=share_link&ouid=104859686814942849803&rtpof=true&sd=true)
++ [第十週-2](https://docs.google.com/presentation/d/1F45CZQw3dErYw_5gv3UFqwV5lnt5ngIH/edit?usp=share_link&ouid=104859686814942849803&rtpof=true&sd=true)
 # 專題演講
 + [用ChatGPT來打造大腦的聊天機器人](https://docs.google.com/presentation/d/1RPQ2s77Z4AcE3mKg6_cGm3IuaitjpeXJLJkuOqROJDw/edit#slide=id.g1cac831260d_0_17)
